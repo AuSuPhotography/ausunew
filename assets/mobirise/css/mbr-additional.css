@@ -2925,8 +2925,8 @@ section.lazy-placeholder:after {
   color: #efefef;
 }
 .cid-rQAgK09A9S {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
 .cid-rQAgK09A9S .testimonial-text {
@@ -2955,34 +2955,40 @@ section.lazy-placeholder:after {
 .cid-rQAgK09A9S .mbr-author-desc {
   color: #0f7699;
 }
-.cid-rQAgKq3EMP {
+.cid-rQGFk2wFYt {
   padding-top: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
-.cid-rQAgKq3EMP .testimonial-text {
+.cid-rQGFk2wFYt .testimonial-text {
   font-style: italic;
-  color: #ffffff;
   font-weight: 300;
 }
-.cid-rQAgKq3EMP .mbr-author-name {
+.cid-rQGFk2wFYt .mbr-author-name {
   font-weight: bold;
   color: #c60202;
 }
-.cid-rQAgKq3EMP .mbr-author-desc {
-  color: #0f7699;
+.cid-rQGFk2wFYt .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rQAgKq3EMP .mbr-figure,
-  .cid-rQAgKq3EMP img {
+  .cid-rQGFk2wFYt .mbr-figure,
+  .cid-rQGFk2wFYt img {
     max-height: 300px;
     width: auto;
     margin: auto;
   }
+  .cid-rQGFk2wFYt .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
+.cid-rQGFk2wFYt .mbr-author-desc {
+  color: #0f7699;
 }
 .cid-rQAgKHWt8D {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
 .cid-rQAgKHWt8D .testimonial-text {
@@ -3011,30 +3017,36 @@ section.lazy-placeholder:after {
 .cid-rQAgKHWt8D .mbr-author-desc {
   color: #0f7699;
 }
-.cid-rQAgKZJbXJ {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rQGFkjA807 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
-.cid-rQAgKZJbXJ .testimonial-text {
+.cid-rQGFkjA807 .testimonial-text {
   font-style: italic;
-  color: #ffffff;
   font-weight: 300;
 }
-.cid-rQAgKZJbXJ .mbr-author-name {
+.cid-rQGFkjA807 .mbr-author-name {
   font-weight: bold;
   color: #c60202;
 }
-.cid-rQAgKZJbXJ .mbr-author-desc {
-  color: #0f7699;
+.cid-rQGFkjA807 .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rQAgKZJbXJ .mbr-figure,
-  .cid-rQAgKZJbXJ img {
+  .cid-rQGFkjA807 .mbr-figure,
+  .cid-rQGFkjA807 img {
     max-height: 300px;
     width: auto;
     margin: auto;
   }
+  .cid-rQGFkjA807 .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
+.cid-rQGFkjA807 .mbr-author-desc {
+  color: #0f7699;
 }
 .cid-rQDo1TB97B {
   padding-top: 45px;
